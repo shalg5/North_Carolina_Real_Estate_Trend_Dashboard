@@ -4,7 +4,7 @@
 
 This dashboard analyzes housing market trends across North Carolina using Zillow’s datasets. The focus is on identifying KPIs that builders and investors can easily understand, such as median prices, regional year-over-year (YoY) growth, and long-term price appreciation, in order to support real estate decision-making and track market trends in the North Carolina region.
 
-Dashboard Link: 
+Dashboard Link: https://public.tableau.com/views/NorthCarolinasRealEstateTrend/RegionWiseInvestment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ---
 
