@@ -48,9 +48,9 @@ Dashboard Link: https://public.tableau.com/views/NorthCarolinasRealEstateTrend/R
 ## Key Insights
 
 * **Median Home Price:** Across North Carolina, the median home value is around \$310K, with a consistent upward trend.
-* **Regional Differences:** Certain counties show above-average YoY growth (like Sunbury), while others lag behind, creating clear winners and underperforming regions.
+* **Regional Differences:** Certain regions show above-average YoY growth (like Sunbury), while others lag behind, creating clear winners and underperforming regions.
 * **Sustained Growth:** Most regions are on a positive trajectory, indicating stable demand and limited risk of price decline in the near term.
-* **Long-Term CAGR (Compound Annual Growth Rate):** Over the last 3 years, some regions (like Aberdeen) demonstrate a CAGR of 5–7%, suggesting sustained appreciation and long-term investment value.
+* **Long-Term CAGR (Compound Annual Growth Rate):** Over the last 3 years, some regions (like Aberdeen) have demonstrated a CAGR of 5–7%, suggesting sustained appreciation and long-term investment value.
 
 ---
 
@@ -58,10 +58,10 @@ Dashboard Link: https://public.tableau.com/views/NorthCarolinasRealEstateTrend/R
 
 * **Target High-Growth Regions:** By observing the YoY price growth per region, we can see certain regions in North Carolina showing sharp upward trends. Builders and investors should prioritize these regions, as strong YoY appreciation indicates robust demand and higher resale potential.
 * **Spot Emerging Growth Areas:** Regions with lower base prices but strong YoY growth represent “up-and-coming” regions. Investors can enter early at lower costs, while builders can develop mid-market housing to capture rising demand.
-* **Stabilize Through Long-Term Investments:** Counties with steady CAGR growth (not just recent spikes) show resilience. These areas are less risky and ideal for long-term rental portfolios or institutional investments.
-* **Long-Term Value Creation:** Using CAGR insights from the dashboard, we can identify counties that have not only grown recently but also sustained long-term appreciation. These regions provide the strongest case for long-term ROI, making them ideal for buy-and-hold strategies.
+* **Stabilize Through Long-Term Investments:** regions with steady CAGR growth (not just recent spikes) show resilience. These areas are less risky and ideal for long-term rental portfolios or institutional investments.
+* **Long-Term Value Creation:** Using CAGR insights from the dashboard, we can identify regions that have not only grown recently but also sustained long-term appreciation. These regions provide the strongest case for long-term ROI, making them ideal for buy-and-hold strategies.
 * **Capitalize on Premium Markets:** Regions consistently above the state median price of \$310K (from pricing trend data) are strong premium markets. Builders can target these areas for luxury housing, while investors can focus on high-margin resale opportunities.
-* **Regional Diversification:** Instead of overconcentrating in high-price areas, investors should spread portfolios across counties with different growth profiles (high YoY vs. stable CAGR) to balance short-term gains and long-term security.
+* **Regional Diversification:** Instead of overconcentrating in high-price areas, investors should spread portfolios across regions with different growth profiles (high YoY vs. stable CAGR) to balance short-term gains and long-term security.
 
 ---
 
@@ -69,13 +69,13 @@ Dashboard Link: https://public.tableau.com/views/NorthCarolinasRealEstateTrend/R
 
 * **Regional Demand Volatility:** Markets with strong YoY but weak long-term CAGR could signal short-term spikes (possibly driven by temporary migration or economic shocks). Such volatility can result in unstable returns.
 * **Affordability Risk:** With the median price at \~\$310K, continued upward trends could price out first-time buyers. Builders may face reduced demand for entry-level housing, while policymakers face affordability crises.
-* **Supply Chain & Construction Costs:** High-growth counties attract more builders → increased demand for land, labor, and materials. This can inflate costs, squeeze margins, and delay project timelines.
+* **Supply Chain & Construction Costs:** High-growth regions attract more builders → increased demand for land, labor, and materials. This can inflate costs, squeeze margins, and delay project timelines.
 
 ---
 
 ## Conclusion
 
-This dashboard provides a clear snapshot of North Carolina’s housing market by analyzing median prices, year-over-year growth, and long-term appreciation trends (CAGR). The insights help builders, investors, and policymakers identify where opportunities lie — from high-growth counties that signal strong demand to more affordable regions that balance risk and return.
+This dashboard provides a clear snapshot of North Carolina’s housing market by analyzing median prices, year-over-year growth, and long-term appreciation trends (CAGR). The insights help builders, investors, and policymakers identify where opportunities lie — from high-growth regions that signal strong demand to more affordable regions that balance risk and return.
 
 At the same time, the analysis highlights important risks such as potential overvaluation in fast-growing markets, affordability pressures, and external shocks like interest rate changes or policy shifts.
 
